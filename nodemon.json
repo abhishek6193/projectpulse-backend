@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "abhishek6193",
+        "DB_PASSWORD": "OBg5ug4oP8SlJhDg",
+        "DB_NAME": "project-management",
+        "GOOGLE_API_KEY": "AIzaSyC98dWxZG3sZVJGtvNW53LfJKWZp_VOQDE",
+        "JWT_SECRET": "supersecret_dont_share"
+    }
+}
